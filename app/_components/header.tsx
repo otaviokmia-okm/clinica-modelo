@@ -16,7 +16,7 @@ export default function Header() {
           {/* Aumentei para w-24 para dar mais destaque à nova logo */}
           <div className="relative w-24 h-24 overflow-hidden rounded-full border border-gray-100 shadow-sm">
             <Image 
-              src="/images/logo-lumina.png" // MUDADO PARA PNG AQUI
+              src="/images/logo.png" // MUDADO PARA PNG AQUI
               alt="Lumina Aesthetics Logo"
               fill
               className="object-cover"

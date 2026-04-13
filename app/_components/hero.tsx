@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 export default function Hero() {
   // LINK DA AGENDA (Cole o seu link do Google Agenda aqui)
-  const linkAgenda = "https://calendar.google.com/calendar/u/0/appointments/schedules/...";
+  const linkAgenda = "https://calendar.app.google/QVyVqdjc7dDo41oo9";
 
   return (
     <section className="relative w-full min-h-[95vh] bg-white overflow-hidden">
