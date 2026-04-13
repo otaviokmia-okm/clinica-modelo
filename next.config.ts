@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  /* No momento, deixaremos vazio para garantir que o servidor suba sem erros */
 };
 
 export default nextConfig;
